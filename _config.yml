@@ -1,9 +1,10 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: title: Nathan Rickey - Profile
+
 baseurl: /project
 
 # variables
-name: Nathan Rickey - Profile
+title: Nathan Rickey - Profile
 description: Software Productization
 google_verification: null
 
