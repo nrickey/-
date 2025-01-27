@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: nrickey.github.io/-
-baseurl: /project
+baseurl: /
 
 # variables
 name: Nathan Rickey - Profile
